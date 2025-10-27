@@ -1,0 +1,47 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ]
+  ],
+  "legacy_uid": "01d62096-1654-ee1a-9744-c175f05362a5",
+  "instructors": {
+    "content": [
+      "de748e8f-c6ba-fe49-df0f-bbe8ce3f9ab6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f78258ab-2201-b6b7-4e15-d8a91c728b9c",
+    "website": "18-357-interfacial-phenomena-fall-2010"
+  },
+  "course_title": "Interfacial Phenomena",
+  "course_description": "This graduate-level course covers fluid systems dominated by the influence of interfacial tension. The roles of curvature pressure and Marangoni stress are elucidated in a variety of fluid systems. Particular attention is given to drops and bubbles, soap films and minimal surfaces, wetting phenomena, water-repellency, surfactants, Marangoni flows, capillary origami and contact line dynamics.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.357",
+  "course_image_thumbnail": {
+    "content": "8dbea498-ef70-6111-786e-2eba19b374eb",
+    "website": "18-357-interfacial-phenomena-fall-2010"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "78679ca3-95a0-474e-a4d6-10c10606aed9",
+  "site_short_id": "18.357-fall-2010",
+  "site_url_path": "courses/18-357-interfacial-phenomena-fall-2010",
+  "title": "Course Metadata"
+}
